@@ -37,24 +37,24 @@ PURPOSE      → technology that feels human and work that carries hope
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>✦ Hope Pixel Broadcast</h3>
+      <p><strong>✦ Hope Pixel Broadcast</strong></p>
       <p>A visual-first digital experience shaped through atmosphere, motion, and creative front-end craft.</p>
       <p><a href="https://github.com/katenoahpersonal-svg/Hope-Pixel-Broadcast"><strong>Enter the project →</strong></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>✦ Hope Records</h3>
+      <p><strong>✦ Hope Records</strong></p>
       <p>A TypeScript project exploring how design systems and storytelling can live together in one experience.</p>
       <p><a href="https://github.com/katenoahpersonal-svg/Hope-Records"><strong>View the repository →</strong></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>✦ Organic Algorithm App</h3>
+      <p><strong>✦ Organic Algorithm App</strong></p>
       <p>A concept-driven web application built to make digital systems feel more intuitive and alive.</p>
       <p><a href="https://github.com/katenoahpersonal-svg/Organic-Algorithm-App"><strong>See how it works →</strong></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>✦ Share Your Story</h3>
+      <p><strong>✦ Share Your Story</strong></p>
       <p>A story-centered digital space designed around voice, connection, and human experience.</p>
       <p><a href="https://github.com/katenoahpersonal-svg/share-your-story"><strong>Explore the project →</strong></a></p>
     </td>
@@ -83,13 +83,9 @@ PURPOSE      → technology that feels human and work that carries hope
 ## A little constellation of activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=katenoahpersonal-svg&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E8C98A&text_color=C9D1D9&icon_color=8B7CFF&ring_color=E8C98A" height="165" alt="Kate's GitHub statistics" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=katenoahpersonal-svg&hide_border=true&background=0D1117&ring=E8C98A&fire=8B7CFF&currStreakLabel=E8C98A&sideLabels=C9D1D9&currStreakNum=F8F4EA&sideNums=F8F4EA&dates=78839A" height="165" alt="Kate's GitHub contribution streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=katenoahpersonal-svg&bg_color=0D1117&color=C9D1D9&line=8B7CFF&point=E8C98A&area=true&hide_border=true" width="100%" alt="Kate's GitHub activity graph" />
-</div>
 
 ---
 
