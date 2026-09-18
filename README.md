@@ -8,7 +8,7 @@
 
 # Katelynn Noah
 
-### Creative technologist · front-end developer · filmmaker · multidisciplinary artist
+### Creative technologist · developer · filmmaker · multidisciplinary artist
 
 *I build expressive digital worlds where story, design, and technology meet.*
 
